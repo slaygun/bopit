@@ -203,10 +203,6 @@ class MusicPlayer():
         b.grid(row=0, column=2, padx=5, pady=5)
 
 
-
-
-        
-
 if __name__ == '__main__':
     root = Tk()
     x = MusicPlayer(root)
