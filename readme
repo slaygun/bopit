@@ -1,0 +1,9 @@
+os
+tkinter
+tkinter.ttk
+pygame
+PIL
+lyrics_extractor
+mutagen.mp3
+
+make sure the directory is correct for image and songs.
